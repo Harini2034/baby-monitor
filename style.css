@@ -1,0 +1,42 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 32px;
+width: 50%;
+margin: 0px;
+font-family: 'Dancing Script', cursive;
+}
+
+#status
+{
+font-size: 25px;
+font-family: 'Dancing Script', cursive;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#music
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 15px;
+    box-shadow: purple;
+    color: white;
+}
+
+.sleep
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    box-shadow: purple;
+    color: white;
+}
